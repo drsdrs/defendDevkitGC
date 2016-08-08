@@ -1,0 +1,24 @@
+{
+  "appID": "3f1b804741714499b6f9a4a27c9e2250",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v4.5.2"
+  },
+  "shortName": "DEFEND",
+  "studio": {
+    "domain": "studio.example.com",
+    "name": "Your Studio Name",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [ "portrait" ],
+  "title": "DEFEND",
+  "FullScreen": "true",
+  "SetFullscreen": "true",
+  "gameHash": "",
+  "android": { "versionCode": 1 },
+  "ttf": [
+    "resources/fonts/slkscr.ttf",
+    "resources/fonts/slkscrb.ttf",
+    "resources/fonts/slkscre.ttf",
+    "resources/fonts/slkscreb.ttf"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "devkithelloworld",
+  "version": "1.0.0",
+  "description": "devkit-application-template ===========================",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-coffeelint": "0.0.16",
+    "grunt-contrib-coffee": "^1.0.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-livereload": "^0.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "grunt"
+  },
+  "author": "",
+  "license": "ISC"
+}
